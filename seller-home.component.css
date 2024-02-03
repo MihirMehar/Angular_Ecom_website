@@ -1,0 +1,18 @@
+table{
+    text-align: left;
+    color: navy;
+    border-collapse: collapse;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+table td , table th{
+    border: 1px solid navy;
+    padding: 10px;
+    min-width: 160pxs;
+}
+.adjust-update-link{
+    margin-left: auto;
+    margin-right: auto;
+}

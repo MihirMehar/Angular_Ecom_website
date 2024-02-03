@@ -1,0 +1,9 @@
+.add-product h1,
+.login h1{
+text-align: center;
+margin-bottom: 15px;
+color: navy;
+}
+.add-product{
+    text-align: center;
+}
