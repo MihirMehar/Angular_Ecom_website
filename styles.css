@@ -1,0 +1,69 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.common-form {
+  text-align: center;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  width: 300px;
+}
+
+
+
+.form-input {
+  height: 35px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  border: 1px solid navy;
+  color: black;
+}
+
+.form-button {
+  height: 30px;
+  border:2px solid black;
+  cursor: pointer;
+  width: auto;
+}
+.error-p{
+  color: red;
+}
+.message-p{
+  color: brown;
+}
+/* h1{
+  text-align: center;
+  color: navy;
+} */
+.carousel-caption {
+  background-color: #0000007d;
+  border-radius: 10px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+  background-color: black;
+  border-radius: 5px;
+}
+
+/* @media (min-width:450px ){
+  .layout{
+    display: grid;
+    grid-template-rows: 3rem auto 4rem 3rem;
+    grid-template-columns: auto to auto;
+    grid-template-areas:
+    'haeder header header'
+    'main main nav'
+    'widget widget nav'
+    "footer footer footer";
+  }
+} */
+
+.max-width{
+  width: 100%;
+}

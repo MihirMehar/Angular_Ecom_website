@@ -1,0 +1,351 @@
+{
+  "seller": [
+    {
+      "name": "Mihir Mehar",
+      "email": "mihirmehar2769@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Priya",
+      "email": "priya2769@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "data": {
+        "name": "Pratik",
+        "password": "abc@123",
+        "email": "pratik@gmail.com"
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "name": "admin",
+        "password": "admin@123",
+        "email": "admin@gmail.com"
+      },
+      "id": 4
+    },
+    {
+      "name": "alena",
+      "password": "abc@123",
+      "email": "alena@test.com",
+      "id": 5
+    },
+    {
+      "name": "anil",
+      "password": "abc@123",
+      "email": "anil@test.com",
+      "id": 6
+    },
+    {
+      "name": "Mihir",
+      "password": "abc@123",
+      "email": "mihirmehar2769@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Mihir",
+      "password": "abc@123",
+      "email": "mihirmehar9@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 9
+    },
+    {
+      "name": "MIhir",
+      "password": "mihir",
+      "email": "mihirmehar2769@gmail.com",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "Hp Laptop",
+      "price": "70000",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "HP NoteBook is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The HP NoteBook packs 256GB of SSD storage.",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2023/07/hp-envy-x360.jpg",
+      "id": 1
+    },
+    {
+      "name": "Iphone 15 Pro",
+      "price": "150000",
+      "category": "mobiles",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2023/10/iphone-15-pro-max.jpg",
+      "id": 2
+    },
+    {
+      "name": "Iphone 13",
+      "price": "55000",
+      "category": "mobiles",
+      "color": "blue",
+      "description": "An Apple Product",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/b04293a0-6618-4d0c-8011-518237ae2fae22081222.jpg",
+      "id": 3
+    },
+    {
+      "name": "Samsung Galaxy S23",
+      "price": "79999",
+      "category": "Mobiles",
+      "color": "White",
+      "description": "A Samsung Product with good performance",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2024/01/Samsung-S23-series-camera.jpg",
+      "id": 4
+    },
+    {
+      "name": "HP ProBook 440",
+      "price": "70999",
+      "category": "Laptop",
+      "color": "White",
+      "description": "HP ProBook 440 35.6 cm (14) G9 Business Laptop PC",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 5
+    },
+    {
+      "name": "Realme Pro 12",
+      "price": "50999",
+      "category": "Smartphone",
+      "color": "WhiBlueBluete",
+      "description": "A Realme Smartphone",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2024/01/realme-12-pro-teaser-1-2.jpg",
+      "id": 6
+    },
+    {
+      "name": "Noise Icon Buzz",
+      "price": "1199",
+      "category": "SmartWatch",
+      "color": "Black",
+      "description": "Noise Icon Buzz 1.69\" Display with Bluetooth Calling, Built-In Games, Voice Assistant Smartwatch  (Black Strap, Regular)",
+      "image": "https://www.gonoise.com/cdn/shop/files/Carousel-500x500-1_9528c128-8fbf-4b80-afb4-66553d7c907a.png?v=1687523902",
+      "id": 7
+    },
+    {
+      "name": "iQOO 12 Pro",
+      "price": "58090",
+      "category": "Mobiles",
+      "color": "Blue",
+      "description": "An iQOO 12 Pro Product",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2023/11/iQOO-12-Pro.jpg",
+      "id": 8
+    },
+    {
+      "name": "Samsung Galaxy A54 5G",
+      "price": "37499",
+      "category": "Mobiles",
+      "color": "Blue",
+      "description": "An Samsung Product",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a156ezbqins/gallery/in-galaxy-a15-5g-sm-a156-490596-sm-a156ezbqins-539413402?$730_584_PNG$",
+      "id": 9
+    },
+    {
+      "name": "Samsung Galaxy A15 5g",
+      "price": "22499",
+      "category": "Mobiles",
+      "color": "Blue",
+      "description": "An Samsung Product",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a156ezbqins/gallery/in-galaxy-a15-5g-sm-a156-490596-sm-a156ezbqins-539413402?$730_584_PNG$",
+      "id": 10
+    },
+    {
+      "name": "PUMA",
+      "price": "3059",
+      "category": "Shoes",
+      "color": "white",
+      "description": "Men Ridease Lace-Up Sneakers",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240112/iung/65a14ee254c30e6276a6cf21/-473Wx593H-469566644-white-MODEL5.jpg",
+      "id": 11
+    },
+    {
+      "name": "PUMA",
+      "price": "3499",
+      "category": "Shoes",
+      "color": "White-Red",
+      "description": "Men Caracal Lace-Up Sneakers",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231111/Pmc2/654f9f0bddf77915197fe0e7/-473Wx593H-469534079-white-MODEL6.jpg",
+      "id": 12
+    },
+    {
+      "name": "PUMA",
+      "price": "3059",
+      "category": "Shoes",
+      "color": "Blue",
+      "description": "Men Ridease Lace-Up Sneakers",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240112/a76B/65a157d274cb305fe014f64f/-473Wx593H-469566644-white-MODEL.jpg",
+      "id": 13
+    },
+    {
+      "name": "LEE Jeans",
+      "price": "1650",
+      "category": "Jeans",
+      "color": "Blue",
+      "description": "Skinny Fit Jeans with 5-Pocket Styling",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231225/RyhO/6589a258afa4cf41f5e85d3c/-473Wx593H-466663212-blue-MODEL7.jpg",
+      "id": 14
+    },
+    {
+      "name": "LEE Jeans",
+      "price": "1650",
+      "category": "Jeans",
+      "color": "Grey",
+      "description": "Skinny Fit Jeans with 5-Pocket Styling",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231225/Yrpm/6589b30cafa4cf41f5e9881e/-473Wx593H-466671192-grey-MODEL2.jpg",
+      "id": 15
+    },
+    {
+      "name": "Kurta",
+      "price": "934",
+      "category": "Women-kurtas",
+      "color": "Pink",
+      "description": "AVAASA MIX N' MATCH",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230605/FQHJ/647e294e42f9e729d725cf7c/-473Wx593H-443014469-magntafusha-MODEL4.jpg",
+      "id": 16
+    },
+    {
+      "name": "Kurta",
+      "price": "900",
+      "category": "Women-kurta",
+      "color": "Blue",
+      "description": "AVAASA MIX N' MATCH",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230802/8nuU/64ca7080a9b42d15c986ab67/-473Wx593H-443021226-blue-MODEL4.jpg",
+      "id": 17
+    },
+    {
+      "name": "SOJANYA",
+      "price": "2500",
+      "category": "Men-kurta",
+      "color": "White",
+      "description": "Paisley Print Kurta & Pyjamas Set with Floral Jacket",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230809/a7kj/64d3c1ffeebac147fcbabfed/-473Wx593H-466440359-green-MODEL2.jpg",
+      "id": 18
+    },
+    {
+      "name": "Oppo Reno 10",
+      "price": "32999",
+      "category": "Mobiles",
+      "color": "Navy",
+      "description": "An Oppo Reno Product",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/d150b12e-38fc-4833-9ff1-e8ddb331678423170641_416x416.jpg",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "name": "MIhir",
+      "email": "mihirmehar2769@gmail.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "Priyanka",
+      "email": "priya24@gmail.com",
+      "password": "Priya@2407",
+      "id": 2
+    },
+    {
+      "name": "Priyanka",
+      "email": "priya24@gmail.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "mihirmehar",
+      "email": "mihirmehar2769@gmail.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "mihir",
+      "email": "mihirmehar2769@gmail.com",
+      "password": "abc2409",
+      "id": 5
+    },
+    {
+      "name": "MIhir",
+      "email": "mihirmehar2769@gmail.com",
+      "password": "abc123",
+      "id": 6
+    },
+    {
+      "name": "MIhir",
+      "email": "mihirmehar2769@gmail.com",
+      "password": "abc123",
+      "id": 7
+    },
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "abc123",
+      "id": 8
+    },
+    {
+      "name": "Priyanka",
+      "email": "priya@test.com",
+      "password": "abc123",
+      "id": 9
+    },
+    {
+      "name": "Simran",
+      "email": "simranmehar@gmail.com",
+      "password": "abc123",
+      "id": 10
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung Galaxy S23",
+      "price": "79999",
+      "category": "Mobiles",
+      "color": "White",
+      "description": "A Samsung Product with good performance",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2024/01/Samsung-S23-series-camera.jpg",
+      "quantity": 2,
+      "productId": 4,
+      "userId": 9,
+      "id": 1
+    },
+    {
+      "name": "LEE Jeans",
+      "price": "1650",
+      "category": "Jeans",
+      "color": "Grey",
+      "description": "Skinny Fit Jeans with 5-Pocket Styling",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231225/Yrpm/6589b30cafa4cf41f5e9881e/-473Wx593H-466671192-grey-MODEL2.jpg",
+      "quantity": 1,
+      "productId": 15,
+      "userId": 9,
+      "id": 2
+    },
+    {
+      "name": "Noise Icon Buzz",
+      "price": "1199",
+      "category": "SmartWatch",
+      "color": "Black",
+      "description": "Noise Icon Buzz 1.69\" Display with Bluetooth Calling, Built-In Games, Voice Assistant Smartwatch  (Black Strap, Regular)",
+      "image": "https://www.gonoise.com/cdn/shop/files/Carousel-500x500-1_9528c128-8fbf-4b80-afb4-66553d7c907a.png?v=1687523902",
+      "quantity": 1,
+      "productId": 7,
+      "userId": 10,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "email": "priya@test.com",
+      "address": "42 narayan pura sanwar road ujjain",
+      "contact": "8959428793",
+      "totalPrice": 161748,
+      "userId": 9,
+      "id": 1
+    }
+  ]
+}
